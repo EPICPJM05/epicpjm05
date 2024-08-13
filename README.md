@@ -15,13 +15,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EPICPJM05?tab=repositories](https://github.com/EPICPJM05?tab=repositories)
 
-- 📝 I regularly write articles on [--Pending--](--Pending--)
-
 - 💬 Ask me about **Web / Circuit programming**
 
 - 📫 How to reach me **poojan.mehta2005@gmail.com**
+<!-- 
+- 📝 I regularly write articles on [--Pending--](--Pending--)
 
 - 📄 Know about my experiences [--Pending--](--Pending--)
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
