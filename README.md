@@ -1,3 +1,4 @@
+<img src = "banner.png" width="722px">
 <h1 align="center">Hello 👋, myself Poojan Mehta</h1>
 <h3 align="center">A Robotics and IOT enthusiast from India 🫡</h3>
 
